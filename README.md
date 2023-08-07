@@ -13,7 +13,7 @@
 <br>
 
 <p align="centre">
-<a href="https://linkedin.com/in/linkedin.com/in/sharique-shaikh-b0680a1b4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/sharique-shaikh-b0680a1b4/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sharique-shaikh-b0680a1b4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/sharique-shaikh-b0680a1b4/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/22231564/shaikh-sharique" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22231564/shaikh-sharique" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/snorlax_sharik/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/snorlax_sharik/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/leetcode.com/sharik10786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode.com/sharik10786" height="30" width="40" /></a>
